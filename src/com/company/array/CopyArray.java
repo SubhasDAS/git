@@ -1,6 +1,5 @@
 package com.company.array;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class CopyArray {

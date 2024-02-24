@@ -1,6 +1,5 @@
 package com.company.array;
 
-import java.util.Iterator;
 
 public class LrgestNoInArray 
 {
